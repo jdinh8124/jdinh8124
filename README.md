@@ -1,4 +1,4 @@
-[![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues)](https://github.com/jdinh8124)
+[![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues,contribs)](https://github.com/jdinh8124)
 
 - 👯 Current working tech stack: Angular, Typescript, C# & .NET Framework, MSSQL, HTML5, SCSS, GitLab
 - 🌱 Personal tech stack: React/Angular, Node, TypeScript, JavaScript, PostgreSQL, Express, HTML5, CSS3, Github
