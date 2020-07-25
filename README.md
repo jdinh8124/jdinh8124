@@ -1,7 +1,7 @@
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jdinh8124)
 
-- 👯 Current working tech stack: Angular, Typescript, C# & .NET Framework, MSSQL, HTML5, SCSS
-- 🌱 Personal tech stack: React/Angular, Node, TypeScript, JavaScript, PostgreSQL, Express, HTML5, CSS3
+- 👯 Current working tech stack: Angular, Typescript, C# & .NET Framework, MSSQL, HTML5, SCSS, GitLab
+- 🌱 Personal tech stack: React/Angular, Node, TypeScript, JavaScript, PostgreSQL, Express, HTML5, CSS3, Github
 
 ## About Me
 Hello, my name is James Dinh, and I am a full stack software engineer currently working in the field who is passionate about development, search engine optimization, accessibility, UX & UI design, and the role of technology in education.
