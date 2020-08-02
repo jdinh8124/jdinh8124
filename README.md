@@ -3,6 +3,8 @@
 - 🧱 Current working tech stack: Angular, Typescript, C# & .NET Framework, MSSQL, HTML5, SCSS, Jasmine, Bootstrap, GitLab
 - 🌱 Personal tech stack: React/Angular, Node, TypeScript, JavaScript, PostgreSQL, Express, HTML5, CSS3, Bootstrap, Github
 
+#### Current Mood: 🤔 Wondering why Angular gets so much hate
+
 ## About Me
 Hello, my name is James Dinh, and I am a full stack software engineer currently working at Jonel Engineering who is excited about development, accessibility, UX & UI design, and the role of technology in education.
 
@@ -20,5 +22,5 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [The Power of Why](https://www.linkedin.com/pulse/power-why-james-dinh/)
 - [10 Things That Require Zero Talent](https://www.linkedin.com/feed/update/urn:li:activity:6635591280305025024/)
 - [The Trials and Tribulations Make Us Stronger](https://www.linkedin.com/posts/jdinh8124_things-that-happened-to-me-during-my-job-activity-6669713512278970368-B3Uv)
-- [My Tips on Finding A Job During Covid-19](https://www.youtube.com/watch?v=8DHsoY5eCzA)
+- [My Tips on Finding A Job During Covid-19 Video Interview](https://www.youtube.com/watch?v=8DHsoY5eCzA)
 
