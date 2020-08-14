@@ -16,6 +16,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [LinkedIn](https://www.linkedin.com/in/jdinh8124/)
 - [Portfolio](https://jamestdinh.com/)
 - [Resume](https://drive.google.com/file/d/180cDeqpJ8Eum39jrIuS5BJnU8MTjlDgr/view)
+- [Twitter](https://twitter.com/jdinh8124)
 
 ## My Articles & Interviews About Programming
 - [Four Skills I Developed as a Coach That I've Applied To Programming](https://www.linkedin.com/pulse/four-skills-i-developed-coach-ive-applied-programming-james-dinh/)
