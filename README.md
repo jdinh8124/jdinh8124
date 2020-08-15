@@ -15,7 +15,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 ## My Socials
 - [LinkedIn](https://www.linkedin.com/in/jdinh8124/)
 - [Portfolio](https://jamestdinh.com/)
-- [Resume](https://drive.google.com/file/d/180cDeqpJ8Eum39jrIuS5BJnU8MTjlDgr/view)
+- [Resume](https://drive.google.com/file/d/1e1ENhtUm4c7rVg7a-6Mi21lYzF8iQCuV/view?usp=sharing)
 - [Twitter](https://twitter.com/jdinh8124)
 
 ## My Articles & Interviews About Programming
