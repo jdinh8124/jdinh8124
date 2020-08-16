@@ -3,7 +3,7 @@
 - 🧱 Current working tech stack: Angular, Typescript, C# & .NET Framework, MSSQL, HTML5, SCSS, Jasmine, RxJS, Bootstrap, GitLab
 - 🌱 Personal tech stack: React/Angular, Node, TypeScript, JavaScript, PostgreSQL, Express, HTML5, CSS3, React Context, Bootstrap, Github
 
-#### Current Mood: 🤔 Wondering why Angular gets so much hate
+#### Current Mood: Thankful 💫
 
 ## About Me
 Hello, my name is James Dinh, and I am a full stack software engineer currently working at Jonel Engineering who is excited about development, accessibility, UX & UI design, and the role of technology in education.
