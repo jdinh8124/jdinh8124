@@ -13,10 +13,10 @@ I am a dedicated individual who is passionate about learning and growing in ever
 Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I have my family by my side motivates me to improve every single day. Feel free to reach out to me if you are ever in a similar position or would like to connect! 
 
 ## My Socials
-- [LinkedIn](https://www.linkedin.com/in/jdinh8124/)
-- [Portfolio](https://jamestdinh.com/)
-- [Resume](https://drive.google.com/file/d/1e1ENhtUm4c7rVg7a-6Mi21lYzF8iQCuV/view?usp=sharing)
-- [Twitter](https://twitter.com/jdinh8124)
+<br /> 🔌 [LinkedIn](https://www.linkedin.com/in/jdinh8124/)
+<br /> 🔗[ Portfolio](https://jamestdinh.com/)
+<br /> 💼 [Resume](https://drive.google.com/file/d/1e1ENhtUm4c7rVg7a-6Mi21lYzF8iQCuV/view?usp=sharing)
+<br /> 🐦 [Twitter](https://twitter.com/jdinh8124)
 
 ## My Articles & Interviews About Programming
 - [Four Skills I Developed as a Coach That I've Applied To Programming](https://www.linkedin.com/pulse/four-skills-i-developed-coach-ive-applied-programming-james-dinh/)
