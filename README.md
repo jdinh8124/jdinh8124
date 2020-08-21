@@ -27,3 +27,4 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 
 ## Additional Resources
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=developer-resources)](https://github.com/jdinh8124/developer-resources)
+ 
