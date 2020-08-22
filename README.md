@@ -27,4 +27,8 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 
 ## Additional Resources
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=developer-resources)](https://github.com/jdinh8124/developer-resources)
+
+## Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=Peytons-Omaha-Sales)](https://github.com/jdinh8124/Peytons-Omaha-Sales)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=autonomous-timer)](https://github.com/jdinh8124/autonomous-timer)
  
