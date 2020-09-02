@@ -18,6 +18,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 💼 [Resume](https://drive.google.com/file/d/1e1ENhtUm4c7rVg7a-6Mi21lYzF8iQCuV/view?usp=sharing)<br /> 
 🐦 [Twitter](https://twitter.com/jdinh8124)<br /> 
 📝 [Dev](https://dev.to/jdinh8124)<br /> 
+👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
 👨🏽‍💻 [GitLab](https://gitlab.com/jdinh8124)<br /> 
 
 ## My Articles & Interviews About Programming
