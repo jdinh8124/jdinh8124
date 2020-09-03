@@ -22,7 +22,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 👨🏽‍💻 [GitLab](https://gitlab.com/jdinh8124)<br /> 
 
 ## My Articles & Interviews About Programming
-- [From History Teacher To Software Engineer](https://www.coursereport.com/blog/from-teacher-to-remote-software-engineer-why-james-chose-learningfuze)
+- [From History Teacher To Software Engineer: Course Report Interview](https://www.coursereport.com/blog/from-teacher-to-remote-software-engineer-why-james-chose-learningfuze)
 - [Four Skills I Developed as a Coach That I've Applied To Programming](https://www.linkedin.com/pulse/four-skills-i-developed-coach-ive-applied-programming-james-dinh/)
 - [The Power of Why](https://www.linkedin.com/pulse/power-why-james-dinh/)
 - [10 Things That Require Zero Talent](https://www.linkedin.com/feed/update/urn:li:activity:6635591280305025024/)
