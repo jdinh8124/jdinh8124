@@ -28,9 +28,6 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [The Trials and Tribulations Make Us Stronger](https://www.linkedin.com/posts/jdinh8124_things-that-happened-to-me-during-my-job-activity-6669713512278970368-B3Uv)
 - [My Tips on Finding A Job During Covid-19 Video Interview](https://www.youtube.com/watch?v=8DHsoY5eCzA)
 
-## Additional Resources To Help Others
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=developer-resources)](https://github.com/jdinh8124/developer-resources)
-
 ## Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=Peytons-Omaha-Sales)](https://github.com/jdinh8124/Peytons-Omaha-Sales)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdinh8124&repo=habit-tracker)](https://github.com/jdinh8124/habit-tracker)
