@@ -1,12 +1,12 @@
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues,contribs)](https://github.com/jdinh8124)
    
-- 🧱 Current working stack: Angular, TypeScript, C# & .NET, MSSQL, HTML5, SCSS, Jasmine, RxJS, Bootstrap, GitLab
+- 🧱 Current working stack: React, TypeScript/JavaScript, Node, Aws
 - 🌱 Personal stack: React/Angular, Go, TypeScript/JavaScript, PostgreSQL, Express, Node, HTML5, CSS3, Context, Bootstrap, Github
 
 #### Current Mood: No longer sleeping on good documentation 😴
 
 ## About Me
-Hello, my name is James Dinh, and I am a software engineer currently working at Jonel Engineering who is excited about development, accessibility, UX & UI design, and the role of technology in education.
+Hello, my name is James Dinh, and I am a software engineer currently working at Collabralink who is excited about development, accessibility, UX & UI design, and the role of technology in education.
 
 I am a dedicated individual who is passionate about learning and growing in every facet of my professional life. There have been two themes throughout my career, my willingness to lead and my drive to help others succeed. I believe that collaboration and compassion for one another can go a long way in any team. My experiences as a teacher and coach have shaped me into the person I am today, and has led me to my current passion, software development.
 
