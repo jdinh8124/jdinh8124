@@ -1,7 +1,7 @@
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues,contribs)](https://github.com/jdinh8124)
    
-- 🧱 Current working stack: React, TypeScript/JavaScript, Node, Aws
-- 🌱 Personal stack: React/Angular, Go, TypeScript/JavaScript, PostgreSQL, Express, Node, HTML5, CSS3, Context, Bootstrap, Github
+- 🧱 Current working stack: React, TypeScript/JavaScript, Redux, Node, Aws
+- 🌱 Personal stack: React/Angular, C# & .Net, TypeScript/JavaScript, PostgreSQL, Express, Node, HTML5, CSS3, Bootstrap, Github
 
 #### Current Mood: No longer sleeping on good documentation 😴
 
