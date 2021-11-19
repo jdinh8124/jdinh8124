@@ -17,7 +17,6 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 🔗 [Portfolio](https://jamestdinh.com/)<br /> 
 💼 [Resume](https://drive.google.com/file/d/1hvojIreSr9UGH_aCmXHS5jLfCDn6r3mV/view?usp=sharing)<br /> 
 👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
-👨🏽‍💻 [GitLab](https://gitlab.com/jdinh8124)<br /> 
 
 ## My Articles & Interviews About Programming
 - [From Teacher To Software Engineer: Course Report Interview](https://www.coursereport.com/blog/from-teacher-to-remote-software-engineer-why-james-chose-learningfuze)
