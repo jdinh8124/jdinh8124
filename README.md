@@ -15,7 +15,6 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 ## My Socials
 🔌 [LinkedIn](https://www.linkedin.com/in/jdinh8124/)<br /> 
 🔗 [Portfolio](https://jamestdinh.com/)<br /> 
-💼 [Resume](https://drive.google.com/file/d/1hvojIreSr9UGH_aCmXHS5jLfCDn6r3mV/view?usp=sharing)<br /> 
 👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
 
 ## My Articles & Interviews About Programming
