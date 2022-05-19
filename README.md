@@ -16,8 +16,8 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 🔌 [LinkedIn](https://www.linkedin.com/in/jdinh8124/)<br /> 
 🔗 [Portfolio](https://jamestdinh.com/)<br /> 
 👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
-📝 [Resume](https://drive.google.com/file/d/1DfWUWKDqfo83xEdGKA0J86AyrN4fJtLq/view?usp=sharing)<br /> 
-📝 [AWS Solutions Architect Associate Certification](https://www.credly.com/badges/fc6ca8c2-92ea-40aa-bb75-d8b17dd743ec)
+📝 [Resume](https://drive.google.com/file/d/1DfWUWKDqfo83xEdGKA0J86AyrN4fJtLq/view?usp=sharing)
+📜 [AWS Solutions Architect Associate Certification](https://www.credly.com/badges/fc6ca8c2-92ea-40aa-bb75-d8b17dd743ec)
 
 ## My Articles & Interviews About Programming
 - [From Teacher To Software Engineer: Course Report Interview](https://www.coursereport.com/blog/from-teacher-to-remote-software-engineer-why-james-chose-learningfuze)
