@@ -3,7 +3,7 @@
 - 🧱 Current working stack: React, TypeScript/JavaScript, Redux, Node, Aws, Chakra UI
 - 🌱 Personal stack: React/Angular, Node, Express C# & .Net, TypeScript/JavaScript, PostgreSQL, CSS3, Bootstrap
 
-#### Current Mood: No longer sleeping on good documentation 😴
+#### Current Mood: Thinking in AWS 
 
 ## About Me
 Hello, my name is James Dinh, and I am a software engineer currently working at Collabralink who is excited about development, accessibility, UX & UI design, and the role of technology in education.
