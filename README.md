@@ -1,7 +1,7 @@
 [![James' github stats](https://github-readme-stats.vercel.app/api?username=jdinh8124&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues,contribs)](https://github.com/jdinh8124)
       
-- 🧱 Current working stack: React, TypeScript/JavaScript, Redux, Node, Aws, Chakra UI, Storybook
-- 🌱 Personal stack: React/Angular, Node, Express C# & .Net, TypeScript/JavaScript, PostgreSQL, CSS3, Bootstrap
+- 🧱 Current working stack: React, TypeScript/JavaScript, Redux, Node, Aws, Chakra UI, Storybook, C# & .Net
+- 🌱 Personal stack: React/Angular, Node, Express, TypeScript/JavaScript, PostgreSQL, CSS3, Bootstrap
 
 #### Current Mood: Thinking in AWS 
 
