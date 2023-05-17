@@ -45,6 +45,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
 📝 [Resume](https://drive.google.com/file/d/1DfWUWKDqfo83xEdGKA0J86AyrN4fJtLq/view?usp=sharing)<br /> 
 📜 [AWS Solutions Architect Professional Certification](https://www.credly.com/badges/610ccb68-e9d1-4e80-8b97-c6cb8c501d01) <br /> 
+📜 [AWS Security Speciality Certification](https://www.credly.com/badges/afe9d2fa-187a-4832-98b5-1089e3ee20fe) <br /> 
 📜 [AWS Solutions Architect Associate Certification](https://www.credly.com/badges/fc6ca8c2-92ea-40aa-bb75-d8b17dd743ec)
 
 ## My Articles & Interviews About Programming
