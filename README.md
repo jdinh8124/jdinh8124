@@ -1,7 +1,7 @@
 - 🧱 Current working stack: React, TypeScript/JavaScript, Node, Aws, Tailwind, Chakra UI, Storybook 
 - 🌱 Personal stack: React/Angular, Node, Express, TypeScript/JavaScript, PostgreSQL, CSS3, Bootstrap
 
-#### Skills 
+#### Skills  
  
    
 <p align="left">
