@@ -31,7 +31,7 @@
 #### Current Mood: Thinking in AWS 
 
 ## About Me
-Hello, my name is James Dinh, and I am a Senior Software Engineer & Team Lead currently working at Groundswell who is excited about development, cloud, and secuirty.
+Hello, my name is James Dinh, and I am a Senior Software Engineer currently working at Directed Trust Company who is excited about development, cloud, and secuirty.
 
 I am a dedicated individual who is passionate about learning and growing in every facet of my professional life. There have been two themes throughout my career, my willingness to lead and my drive to help others succeed. I believe that collaboration and compassion for one another can go a long way in any team. My experiences as a teacher and coach have shaped me into the person I am today, and has led me to my current passion, software development.
 
